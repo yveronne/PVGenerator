@@ -1,0 +1,11 @@
+
+- Le prof entre le nombre de candidats ou partis politiques
+- Il entre le nombre de bureaux de votes
+- Il entre le nombre de personnes inscrites sur le territoire national
+- Il y a 2 PV en plus. Celui d'Elecam et celui qui dit toujours la verite(de reference).
+- Il entre le type de coalition sachant que
+    * Aucune fraude : ici tous les PV sont identiques
+    * Coalition : un groupe de partis s'entend pour ne favoriser qu'une personne. Donc chaque bureau de vote tous ses
+        scrutateurs creeront tes voix fictives pour favoriser le parti en question
+    * Solitaire : Chaque scrutateur de chaque parti favorise dans son bureau de vote son parti politique
+- Se servir de la reference pour essayer de biaiser les PV

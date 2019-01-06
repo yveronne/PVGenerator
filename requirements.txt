@@ -1,0 +1,5 @@
+fpdf
+pdf2jpg
+pillow
+pytesseract
+requests
